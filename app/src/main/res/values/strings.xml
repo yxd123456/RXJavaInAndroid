@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RXJavaInAndroid</string>
+    <string name="hello">哈喽！RXJava</string>
+    <string name="click_text">点击了文本...</string>
+    <string name="tv">文本一</string>
+    <string name="tv1">文档2</string>
+</resources>
